@@ -1,4 +1,4 @@
-package Progamerjamannowwstring;
+package Programer;
 
 public class stringApp {
 
