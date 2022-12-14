@@ -9,9 +9,13 @@ public class NumberApp {
     Short shortValue = doubleValue.shortValue();
 
     String contoh = "100A00";
+    // String contoh1 = "10A238";
 
-    Integer contohInteger = Integer.valueOf(contoh);
+    Double contohInteger = Double.valueOf(contoh);
     System.out.println(contohInteger);
+
+    // Short contoh1Integer = Short.valueOf(contoh1);
+    // System.out.println(contoh1);
     }
     
 }
